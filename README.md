@@ -20,7 +20,6 @@
   ✨ I started my studies in computer science in 2009 <br>
   📚 I am currently exploring Kubernetes and AI <br>
   🔭 I’m currently working at Capgemini <img width="15" height="15" alt="Capgemini Logo" src="https://github.com/user-attachments/assets/c890e4d8-a6e4-4615-accd-37728275e9ed" /> <br>
-  📫 How to reach me: <a href="https://it.linkedin.com/in/riccardo-viola-263339a4"> LinkedIn </a>
 </p>
 
 ###
@@ -60,5 +59,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
 </div>
+
+###
+
+###
+
+<h2 align="left">📫 How to reach me</h2>
+
+###
+
+<p align="left">
+  <img width="15" height="15" alt="LinkedIn Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/3840px-LinkedIn_icon_circle.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+  <a href="https://it.linkedin.com/in/riccardo-viola-263339a4"> LinkedIn </a> <br>
+  <img width="15" height="15" alt="GitHub Logo" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" />
+  <a href="https://riccardoviola.github.io/"> Work Experience </a>
+</p>
 
 ###
