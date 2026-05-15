@@ -5,13 +5,13 @@
 ###
 
 <p align="left">
-  My name is Riccardo Viola :purple_circle: and I'm a software developer from 🟩⬜🟥
+  My name is Riccardo Viola and I'm a software developer from 🟩⬜🟥
 </p>
 
 ###
 
 <h2 align="left">
-  About me
+  :purple_circle: About me
 </h2>
 
 ###
