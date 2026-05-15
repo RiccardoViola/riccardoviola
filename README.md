@@ -19,7 +19,7 @@
 <p align="left">
   ✨ I started my studies in computer science in 2009 <br>
   📚 I am currently exploring Kubernetes and AI <br>
-  🔭 I’m currently working at Capgemini <img width="10" height="10" alt="Capgemini Logo" src="https://github.com/user-attachments/assets/c890e4d8-a6e4-4615-accd-37728275e9ed" /> <br>
+  🔭 I’m currently working at Capgemini <img width="15" height="15" alt="Capgemini Logo" src="https://github.com/user-attachments/assets/c890e4d8-a6e4-4615-accd-37728275e9ed" /> <br>
   📫 How to reach me: <a href="https://it.linkedin.com/in/riccardo-viola-263339a4"> LinkedIn </a>
 </p>
 
